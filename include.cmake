@@ -1,0 +1,1 @@
+CGET_HAS_DEPENDENCY(mongoose GITHUB cesanta/mongoose SIMPLE_BUILD)
